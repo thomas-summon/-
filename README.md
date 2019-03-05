@@ -4,7 +4,7 @@
 
 ## 用法
 
-`python3 …/vault/vaultBytes.py [vault name] [account] [file_location]vaultBytes.py [vault name] [account]`
+`python3 …/vault/vaultBytes.py [vault name] [account]`
 
 or
 
